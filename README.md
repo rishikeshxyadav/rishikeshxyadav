@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Rishikesh Yadav</h1>
 <h3 align="center">Cloud Engineer // Data Analyst</h3>
-<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47tjmypqnuyon043qkaq2p89yasrd53uwz7ka1mjtw&rid=200w.webp&ct=g">
+<img align="right" alt="Coding" width="200" src="![image](https://github.com/rishikeshxyadav/rishikeshxyadav/assets/100788906/3d63d3f7-c8fb-4384-b4a7-962dd60caf36)
+">
 
 
 
