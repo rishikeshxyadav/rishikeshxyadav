@@ -7,7 +7,7 @@
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/rishikeshxyadav?style=social)](https://peerlist.io/rishikeshxyadav)
 
-- 💬 Ask me about **:Cloud Engineer // Data Analysts**
+- 💬 Ask me about **: Data Analysts**
 - 📫 How to reach me: **: [Linkedin profile](https://www.linkedin.com/in/rishikeshhhh-yadav/)**
 
 - ⚡ Fun fact: **: I love Video Games**
